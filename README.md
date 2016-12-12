@@ -12,7 +12,7 @@ Share javascript&&WEB knowledge
     * 第一部分：Object Prototypes (对象原型)
 
 
->刚开始很简单。我会让侯选人去定义一个方法，传入一个string类型的参数，然后将string的每个字符间加个空格返回，例如：
+刚开始很简单。我会让侯选人去定义一个方法，传入一个string类型的参数，然后将string的每个字符间加个空格返回，例如：
 ```javascript
 spacify('hello world') // => 'h e l l o  w o r l d'
 ```
@@ -28,13 +28,13 @@ function spacify(str) {
 ```javascript
 'hello world'.spacify();
 ```
->问这个问题可以让我考察侯选人是否对function prototypes(方法原型)有一个基本的理解。这个问题会经常引起一些有意思的讨论：直接在对象的原型（prototypes）上添加方法是否安全，尤其是在Object对象上。最后的答案可能会像这样：
+问这个问题可以让我考察侯选人是否对function prototypes(方法原型)有一个基本的理解。这个问题会经常引起一些有意思的讨论：直接在对象的原型（prototypes）上添加方法是否安全，尤其是在Object对象上。最后的答案可能会像这样：
 ```javascript
 String.prototype.spacify = function(){
       return this.split('').join(' ');
     };
 ```
->到这儿，我通常会让侯选人解释一下函数声明和函数表达式的区别。
+到这儿，我通常会让侯选人解释一下函数声明和函数表达式的区别。
 
     * 第二部分：参数 arguments
 
