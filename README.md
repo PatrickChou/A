@@ -38,11 +38,7 @@ String.prototype.spacify = function(){
 
 
 
-
-
-
-
-      * 第二部分：参数 arguments
+   * 第二部分：参数 arguments
 
 
 
@@ -85,7 +81,7 @@ function log(){
 
 
 
-      * 第三部分：上下文
+   * 第三部分：上下文
 
 
 
@@ -129,7 +125,7 @@ Function.prototype.bind = Function.prototype.bind || function(context){
 
 
 
-      * 第四部分：弹出窗口（Overlay library）
+   * 第四部分：弹出窗口（Overlay library）
 
 
 
@@ -177,7 +173,7 @@ $('.overlay').click(function(e){
 
 
 
-      * 其他方面
+   * 其他方面
 
 
 
