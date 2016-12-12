@@ -9,6 +9,7 @@ Share javascript&&WEB knowledge
      * 前端性能优化----前端优化.txt
 * Classic interview questions
      * 第一部分：Object Prototypes (对象原型)
+     </br>
          刚开始很简单。我会让侯选人去定义一个方法，传入一个string类型的参数，然后将string的每个字符间加个空格返回，例如：
         ```javascript
         spacify('hello world') // => 'h e l l o  w o r l d'
@@ -35,11 +36,12 @@ Share javascript&&WEB knowledge
 
 
      * 第二部分：参数 arguments
+     </br>
         下一步我会问一些简单的问题去考察侯选人是否理解参数（arguments）对象。我会让他们定义一个未定义的log方法作为开始：
         ```javascript
         log('hello world')
         ```
-        >我会让侯选人去定义log，然后它可以代理console.log的方法。正确的答案是下面几行代码，其实更好的侯选人会直接使用apply.
+        我会让侯选人去定义log，然后它可以代理console.log的方法。正确的答案是下面几行代码，其实更好的侯选人会直接使用apply.
         ```
         function log(msg)　{
               console.log(msg);
@@ -71,6 +73,7 @@ Share javascript&&WEB knowledge
 
 
      * 第三部分：上下文
+     </br>
         下一组问题是考察侯选人对上下文和this的理解。我先定义了下面一个例子。注意count属性不是只读取当前下下文的。
         ```javascript
         var User = {
@@ -111,6 +114,7 @@ Share javascript&&WEB knowledge
 
 
      * 第四部分：弹出窗口（Overlay library）
+     </br>
         面试的最后一部分，我会让侯选人做一些实践，通过做一个‘弹出窗口’的库。我发现这个非常有用，它可以全面地展示一名前端工程师的技能：HTML,CSS和JavaScript。如果侯选人通过了前面的面试，我会马上让他们回答这个问题。
 
         实施方案是由侯选人自己决定的，但是我也希望他们能通过以下几点来实现：
@@ -150,4 +154,5 @@ Share javascript&&WEB knowledge
         ```    
 
      * 其他方面
+     </br>
         当然这些问题只能覆盖前端一点点的知识的，还有很多其他的方面你有可能会问到，像性能，HTML5 API, AMD和CommonJS模块模型，构造函数（constructors），类型和盒子模型（box model）。根据侯选人的情况，我经常会随机提些问题。
