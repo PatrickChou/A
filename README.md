@@ -1,8 +1,9 @@
 # A
 
 分享一些前端的基础知识和一些相关的推荐以及运用基础知识实现的建议demo
-
+====
 share web knowledge
+-------
 
 1.5种极客方法实现数组去重-----Array.html
 2.简单的SPA实现----route.html
