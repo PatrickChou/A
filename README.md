@@ -16,7 +16,7 @@ Share javascript&&WEB knowledge
 ```javascript
 spacify('hello world') // => 'h e l l o  w o r l d'
 ```
->尽管这个问题似乎非常简单，其实这是一个很好的开始，尤其是对于那些未经过电话面试的侯选人——他们很多人声称精通JavaScript，但通常连一个简单的方法都不会写。
+尽管这个问题似乎非常简单，其实这是一个很好的开始，尤其是对于那些未经过电话面试的侯选人——他们很多人声称精通JavaScript，但通常连一个简单的方法都不会写。
 
 下面是正确答案，有时侯选人可能会用一个循环，这也是一种可接受的答案：
 ```javascript
@@ -34,11 +34,9 @@ String.prototype.spacify = function(){
       return this.split('').join(' ');
     };
 ```
-到这儿，我通常会让侯选人解释一下函数声明和函数表达式的区别。
+>到这儿，我通常会让侯选人解释一下函数声明和函数表达式的区别。
 
-
-
-   * 第二部分：参数 arguments
+    * 第二部分：参数 arguments
 
 
 
