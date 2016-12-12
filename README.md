@@ -1,17 +1,15 @@
-# A
-
 Share javascript&&WEB knowledge
 ====
 
 
-##* table of Contents
+## * table of Contents
      * 5种极客方法实现数组去重-----Array.html
      * 简单的SPA实现----route.html
      * 对于变量作用域的研究----var.js
      * 前端性能优化----前端优化.txt
 
 
-##* Classic interview questions
+## * Classic interview questions
 一些经典的面试题
 
 
