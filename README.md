@@ -9,13 +9,7 @@ Share javascript&&WEB knowledge
      * 前端性能优化----前端优化.txt
 
 * Classic interview questions
-一些经典的面试题
-
-
-
-
-
-      * 第一部分：Object Prototypes (对象原型)
+    * 第一部分：Object Prototypes (对象原型)
 
 
 >刚开始很简单。我会让侯选人去定义一个方法，传入一个string类型的参数，然后将string的每个字符间加个空格返回，例如：
