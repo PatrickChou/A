@@ -1,7 +1,8 @@
 Share javascript&&WEB knowledge
 ====
 
-
+* Personal website：http://se7enweb.applinzi.com/（http://se7enweb.applinzi.com/）
+ <br>
 * table of Contents
  <br>
      * [5种极客方法实现数组去重----Array.html](https://github.com/se7en-1992/A/blob/master/Array.html)
