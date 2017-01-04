@@ -1,7 +1,7 @@
 Share javascript&&WEB knowledge
 ====
 
-* Personal website：http://se7enweb.applinzi.com/(http://se7enweb.applinzi.com/)
+* Personal website：http://se7enweb.applinzi.com/
  <br>
 * table of Contents
  <br>
