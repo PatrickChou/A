@@ -38,13 +38,13 @@ Share javascript&&WEB knowledge
         ```
         到这儿，我通常会让侯选人解释一下函数声明和函数表达式的区别。
 
-    <br>
+     <br>
      <br>
      <br>
      <br>
      * 第二部分：参数 arguments
-     </br>
-     </br>
+     <br>
+     <br>
         下一步我会问一些简单的问题去考察侯选人是否理解参数（arguments）对象。我会让他们定义一个未定义的log方法作为开始：
         ```javascript
         log('hello world')
