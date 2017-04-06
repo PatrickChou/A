@@ -2,18 +2,17 @@ Share javascript&&WEB knowledge
 ====
 
 * Personal website：http://5se7en.com/
- <br>
+ 
 * table of Contents
  
-     *[5种极客方法实现数组去重----Array.html](https://github.com/se7en-1992/A/blob/master/Array.html)
-     *[简单的SPA实现----route.html](https://github.com/se7en-1992/A/blob/master/route.html)
-     *[对于变量作用域的研究----var.js](https://github.com/se7en-1992/A/blob/master/var.js)
-     *[前端性能优化----前端优化.txt](https://github.com/se7en-1992/A/blob/master/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96.txt)
+     * [5种极客方法实现数组去重----Array.html](https://github.com/se7en-1992/A/blob/master/Array.html)
+     * [简单的SPA实现----route.html](https://github.com/se7en-1992/A/blob/master/route.html)
+     * [对于变量作用域的研究----var.js](https://github.com/se7en-1992/A/blob/master/var.js)
+     * [前端性能优化----前端优化.txt](https://github.com/se7en-1992/A/blob/master/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96.txt)
 * Classic interview questions
- <br>
+ 
      * 第一部分：Object Prototypes (对象原型)
-     <br>
-     <br>
+     
          刚开始很简单。我会让侯选人去定义一个方法，传入一个string类型的参数，然后将string的每个字符间加个空格返回，例如：
         ```javascript
         spacify('hello world') // => 'h e l l o  w o r l d'
@@ -119,13 +118,9 @@ Share javascript&&WEB knowledge
 
 
 
-     <br>
-     <br>
-     <br>
-     <br>
+     
      * 第四部分：弹出窗口（Overlay library）
-     <br>
-     <br>
+     
         面试的最后一部分，我会让侯选人做一些实践，通过做一个‘弹出窗口’的库。我发现这个非常有用，它可以全面地展示一名前端工程师的技能：HTML,CSS和JavaScript。如果侯选人通过了前面的面试，我会马上让他们回答这个问题。
 
         实施方案是由侯选人自己决定的，但是我也希望他们能通过以下几点来实现：
@@ -163,12 +158,8 @@ Share javascript&&WEB knowledge
                 closeOverlay();
             });
         ```    
-     <br>
-     <br>
-     <br>
-     <br>
+     
      * 其他方面
 
-     <br>
-     <br>
+     
         当然这些问题只能覆盖前端一点点的知识的，还有很多其他的方面你有可能会问到，像性能，HTML5 API, AMD和CommonJS模块模型，构造函数（constructors），类型和盒子模型（box model）。根据侯选人的情况，我经常会随机提些问题。
