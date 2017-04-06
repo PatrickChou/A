@@ -5,10 +5,10 @@ Share javascript&&WEB knowledge
  <br>
 * table of Contents
  
-     * [5种极客方法实现数组去重----Array.html](https://github.com/se7en-1992/A/blob/master/Array.html)
-     * [简单的SPA实现----route.html](https://github.com/se7en-1992/A/blob/master/route.html)
-     * [对于变量作用域的研究----var.js](https://github.com/se7en-1992/A/blob/master/var.js)
-     * [前端性能优化----前端优化.txt](https://github.com/se7en-1992/A/blob/master/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96.txt)
+     *[5种极客方法实现数组去重----Array.html](https://github.com/se7en-1992/A/blob/master/Array.html)
+     *[简单的SPA实现----route.html](https://github.com/se7en-1992/A/blob/master/route.html)
+     *[对于变量作用域的研究----var.js](https://github.com/se7en-1992/A/blob/master/var.js)
+     *[前端性能优化----前端优化.txt](https://github.com/se7en-1992/A/blob/master/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96.txt)
 * Classic interview questions
  <br>
      * 第一部分：Object Prototypes (对象原型)
