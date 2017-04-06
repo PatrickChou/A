@@ -4,7 +4,7 @@ Share javascript&&WEB knowledge
 * Personal website：http://5se7en.com/
  <br>
 * table of Contents
- <br>
+ 
      * [5种极客方法实现数组去重----Array.html](https://github.com/se7en-1992/A/blob/master/Array.html)
      * [简单的SPA实现----route.html](https://github.com/se7en-1992/A/blob/master/route.html)
      * [对于变量作用域的研究----var.js](https://github.com/se7en-1992/A/blob/master/var.js)
