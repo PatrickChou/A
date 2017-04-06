@@ -79,13 +79,11 @@ Share javascript&&WEB knowledge
             };
         ```
 
-     <br>
-     <br>
-     <br>
-     <br>
+     
+     
      * 第三部分：上下文
-     <br>
-     <br>
+    
+    
         下一组问题是考察侯选人对上下文和this的理解。我先定义了下面一个例子。注意count属性不是只读取当前下下文的。
         ```javascript
         var User = {
