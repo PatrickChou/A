@@ -6,6 +6,9 @@ Share
 * table of Contents
     * [前端经典面试题](https://github.com/se7en-1992/A/blob/master/book/interview.md)
     * [javascript的继承及原型链](https://5se7en.com/improve/proto)
+    * [javascript的作用域链和闭包](https://5se7en.com/improve/closure)
+    * [javascript的call,apply和bind](https://5se7en.com/improve/call)
+    * [javascript的操作符typeof](https://5se7en.com/start/typeof)
     * [前端缓存机制](https://5se7en.com/share/cache)
     * [网站如何免费开通https协议？](https://5se7en.com/share/https) 
     * [5种极客方法实现数组去重----Array.html](https://github.com/se7en-1992/A/blob/master/Array.html)
